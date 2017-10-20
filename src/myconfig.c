@@ -210,7 +210,7 @@ void initConfig(int argc, char **argv)
 
 	printf(_("\n欢迎使用MentoHUST\t版本: %s\n"
 			"Copyright (C) 2009-2010 HustMoon Studio\n"
-			"人到华中大，有甜亦有辣。明德厚学地，求是创新家。\n"
+			"23232fuck\n"
 			"Bug report to %s\n\n"), VERSION, PACKAGE_BUGREPORT);
 	saveFlag = (readFile(&daemonMode)==0 ? 0 : 1);
 	readArg(argc, argv, &saveFlag, &exitFlag, &daemonMode);
